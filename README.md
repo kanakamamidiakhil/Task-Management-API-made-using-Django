@@ -12,7 +12,7 @@ Follow the steps below to run this project on your PC:
 
 ```bash
 git clone https://github.com/kanakamamidiakhil/Task-Management-API-made-using-Django.git
-cd task_management
+cd Task-Management-API-made-using-Django
 ```
 
 ### 2. Create a Virtual Environment
